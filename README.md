@@ -2,7 +2,9 @@
 Solving  RC Circuit Application using ode45 Solver
 Solve the following using a MATLAB script. 
 The equation for the voltage, V, across the capacitor of an RC circuit is
+
 RCdv/dt + 𝑉 = 𝑉𝑎
+
 Where RC is the product of the resistance and the capacitance and Va is the applied voltage.
 Suppose that RC=0.2, the applied voltage is 10 V, and the initial voltage on the capacitor is 2 V. 
 • Report the voltage after: 0.25, 0.5, and 1.0 seconds (give values to 2 decimal places)
